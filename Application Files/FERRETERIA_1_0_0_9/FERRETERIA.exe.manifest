@@ -295,14 +295,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FERRETERIA.exe" size="89612800">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FERRETERIA.exe" size="89621504">
       <assemblyIdentity name="FERRETERIA" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>pt3k0p1RrvUdOTIHnxtnLbV/++E=</dsig:DigestValue>
+        <dsig:DigestValue>mRVzePFC9bTfHyYlezLpRGe28GM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -669,6 +669,15 @@
       <dsig:DigestValue>rVao+OI71W07hntt3JiT5sEyq24=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Recursos\Iconos\listaart.png" size="3588">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TrQa8EFqO/0XMWbLTs77+bfmLXo=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Recursos\Iconos\logo_fe_negro_martillo_transparente (1).ico" size="181038">
     <hash>
       <dsig:Transforms>
@@ -714,6 +723,15 @@
       <dsig:DigestValue>CdDP7T/zdDGCmFnsJqnpcR7nj3k=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Recursos\Iconos\segmento-de-clientes (2).png" size="4017">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SGNflJV7WFljHsWXD0sLFqZgLDI=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="SQLite.Interop.dll" size="1368576">
     <hash>
       <dsig:Transforms>
@@ -730,4 +748,4 @@
       <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
     </application>
   </compatibility>
-<publisherIdentity name="CN=LAPTOP-FBPFPV0T\Fredy" issuerKeyHash="e3cf1f93016b435cd17da539280eb82b0898b6fa" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>RCJodFGjO4hCNCEr1dXtkpv+/vU=</DigestValue></Reference></SignedInfo><SignatureValue>lI39x++75tzMdL+7mRFW45kyLpgrNyWxYtqLsVM1+YrKzphmZVXBT+omQ0W2n9n9lD0ceUAjSta+BD46gpJeYCdknh08FR0jEJWt8TII2e1qBw1yD6b9VFaYkUunr2D8ONjUU1+Z4FtQR9NdFUHmGzmluZg+oC6yqt7tJYIRp5M=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4u8eVDD5u6ST9f86u06uTYxxN8Wn5sD7DLG+lkS+PqR4VheplMrjC9K67O8cKFe4ruWCbDI+DkSI/WbH49sV+vAbVeMfzO9W1jhmDHBQpFZge9O++kPSyeSxWyq5fBBjqK3noCdtn1AclCvw76arzDVnoXqskcdQ8zTI+vXXoVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f5fefe9b92edd5d52b213442883ba35174682244" Description="" Url=""><as:assemblyIdentity name="FERRETERIA.exe" version="1.0.0.9" publicKeyToken="65ab4737c621e182" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-FBPFPV0T\Fredy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>BMtm0N91Hv0OlJrnKVpvLDSg8J0=</DigestValue></Reference></SignedInfo><SignatureValue>2rtvkff2gcBwV302rTzPmVSz8/R70jpj2C2Ey5ZbJImV8E2k+IHuA3hHrK784RqiIDBMNgXt0EtzPKCSPgCTBtu8eUP9eU2w1P6pWMSPfhqmx5a7H8V17/BcPHxXdwxCF4HZvZ7/pqRl0YnHy5L0VzW7npQU74Jci/m373eYmyU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4u8eVDD5u6ST9f86u06uTYxxN8Wn5sD7DLG+lkS+PqR4VheplMrjC9K67O8cKFe4ruWCbDI+DkSI/WbH49sV+vAbVeMfzO9W1jhmDHBQpFZge9O++kPSyeSxWyq5fBBjqK3noCdtn1AclCvw76arzDVnoXqskcdQ8zTI+vXXoVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQF/vxcdpIwL5GBMoj66u/ITANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBGAEIAUABGAFAAVgAwAFQAXABGAHIAZQBkAHkwHhcNMjYwODA3MTMxNzQ4WhcNMjcwODA3MTkxNzQ4WjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBGAEIAUABGAFAAVgAwAFQAXABGAHIAZQBkAHkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOLvHlQw+bukk/X/OrtOrk2McTfFp+bA+wyxvpZEvj6keFYXqZTK4wvSuuzvHChXuK7lgmwyPg5EiP1mx+PbFfrwG1XjH8zvVtY4ZgxwUKRWYHvTvvpD0snksVsquXwQY6it56AnbZ9QHJQr8O+mq8w1Z6F6rJHHUPM0yPr116FRAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAXaRpSDQRg+trGaLCRMB2kG+JcyTqK5YKmCZ3YmOB1mAqebmATw9VOwI2ZvNToWbxVZD8n+3JXNwh+LPCoD15BG3Y1rklaG1wPvYsI25oTH9/L9e+rOHFpxBnvFHXv5YL23OZ/9TXJJObdW0Iqz6Lq8UNrLtu72jzcswb2HhDER8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=LAPTOP-FBPFPV0T\Fredy" issuerKeyHash="e3cf1f93016b435cd17da539280eb82b0898b6fa" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>cmHENoszcMWsIoncPw/+spvJDgE=</DigestValue></Reference></SignedInfo><SignatureValue>cd/sQQR0Mi5cbOMoy8BScwE+MZrEN/8MxYkSru3QnJuwf2YEGxHyAw0p+c8WMKm53SGa7xLFOn6HJ8YDoZodEre5xQVym5u+9TDDiorE3a9oO5dEJ28BTls4re5CJLiTXOzu6/cpj+YaN5E+Jp43Z2tu8jzC8iCQJ612rzcSksM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4u8eVDD5u6ST9f86u06uTYxxN8Wn5sD7DLG+lkS+PqR4VheplMrjC9K67O8cKFe4ruWCbDI+DkSI/WbH49sV+vAbVeMfzO9W1jhmDHBQpFZge9O++kPSyeSxWyq5fBBjqK3noCdtn1AclCvw76arzDVnoXqskcdQ8zTI+vXXoVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="010ec99bb2fe0f3fdc8922acc570338b36c46172" Description="" Url=""><as:assemblyIdentity name="FERRETERIA.exe" version="1.0.0.9" publicKeyToken="65ab4737c621e182" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-FBPFPV0T\Fredy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>RYXs6+oV4LfWntSPNri9C3zBB9U=</DigestValue></Reference></SignedInfo><SignatureValue>1bxHYRYVBddcOBssBJX2iI8febRbQtLSDxhkVmPY+lrZUQkU7WpzN3a2atWTcuzZ6SVxRzlRyU6/p20+BOv5uZkZouDtH1oRBpsfH0lGyF970MNWstfLJ4IsjJzlwAV7Ksohw0pB5c+malfj3xUnp8il34gtk37g5orMGHHf0Y8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4u8eVDD5u6ST9f86u06uTYxxN8Wn5sD7DLG+lkS+PqR4VheplMrjC9K67O8cKFe4ruWCbDI+DkSI/WbH49sV+vAbVeMfzO9W1jhmDHBQpFZge9O++kPSyeSxWyq5fBBjqK3noCdtn1AclCvw76arzDVnoXqskcdQ8zTI+vXXoVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQF/vxcdpIwL5GBMoj66u/ITANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBGAEIAUABGAFAAVgAwAFQAXABGAHIAZQBkAHkwHhcNMjYwODA3MTMxNzQ4WhcNMjcwODA3MTkxNzQ4WjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBGAEIAUABGAFAAVgAwAFQAXABGAHIAZQBkAHkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOLvHlQw+bukk/X/OrtOrk2McTfFp+bA+wyxvpZEvj6keFYXqZTK4wvSuuzvHChXuK7lgmwyPg5EiP1mx+PbFfrwG1XjH8zvVtY4ZgxwUKRWYHvTvvpD0snksVsquXwQY6it56AnbZ9QHJQr8O+mq8w1Z6F6rJHHUPM0yPr116FRAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAXaRpSDQRg+trGaLCRMB2kG+JcyTqK5YKmCZ3YmOB1mAqebmATw9VOwI2ZvNToWbxVZD8n+3JXNwh+LPCoD15BG3Y1rklaG1wPvYsI25oTH9/L9e+rOHFpxBnvFHXv5YL23OZ/9TXJJObdW0Iqz6Lq8UNrLtu72jzcswb2HhDER8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
